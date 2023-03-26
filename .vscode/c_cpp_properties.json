@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Users\\45162.CPHXR9000K\\AppData\\Local\\.xmake\\packages\\s\\stb\\2021.09.10\\f94e80cd4717410f960b64150d6d3727\\include",
+                "C:\\Users\\45162.CPHXR9000K\\AppData\\Local\\.xmake\\packages\\a\\assimp\\v5.2.5\\5428fc7ba30140e390565669b6cddb45\\include",
+                "C:\\Users\\45162.CPHXR9000K\\AppData\\Local\\.xmake\\packages\\g\\glfw\\3.3.6\\0f1d7b80c6f84759bc07798549faa20b\\include\\",
+                "C:\\Users\\45162.CPHXR9000K\\AppData\\Local\\.xmake\\packages\\g\\glm\\0.9.9+8\\8335bab7c0314ab9921440de58961aac\\include",
+                "C:\\Users\\45162.CPHXR9000K\\AppData\\Local\\.xmake\\packages\\g\\glad\\v0.1.36\\d58ee23747ff411aae74b40986460499\\include\\"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "D:/VSIDE/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
